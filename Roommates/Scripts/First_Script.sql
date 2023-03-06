@@ -1,0 +1,1 @@
+﻿--this script creates the DB with the right structure and constraints
